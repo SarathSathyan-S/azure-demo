@@ -1,14 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Demo for Azure React App Deployment
-        </p>
+        <p>Demo for Azure React App Deployment</p>
+        <p>Deployment 2</p>
       </header>
     </div>
   );
